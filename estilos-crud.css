@@ -1,8 +1,8 @@
-* @media (orientation: landscape) {
+/* @media (orientation: landscape) {
     body {
       flex-direction: row;
     }
-  }
+  } */
 
 .d-flex {
     display: flex;
@@ -24,6 +24,9 @@
 }
 
 .client-form {
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: center; */
     border-style: solid;
     border-radius: 1rem;
     border-color: dimgray;
